@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+.venv/
+venv/
+env/
+ENV/
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+.python-version
+
+# Editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# AI CLI files
+.codex/
+.claude/
