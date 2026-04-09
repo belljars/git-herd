@@ -22,18 +22,6 @@ By default, a repository is skipped if it has:
 
 All pulls use fast-forward only mode.
 
-## Install
-
-```bash
-pip install .
-```
-
-Or run it directly from the repository:
-
-```bash
-python -m git_herd .
-```
-
 ## Usage
 
 ```bash
