@@ -28,10 +28,16 @@ All pulls use fast-forward only mode.
 pip install .
 ```
 
+Or install it locally for the current user:
+
+```bash
+./install.sh
+```
+
 Or run it directly from the repository:
 
 ```bash
-python -m git_herd .
+./git-herd .
 ```
 
 ## Usage
